@@ -34,3 +34,5 @@ Run the test file in each language folder:
 ## Stretch
 
 Once your tests pass, extend it: write a second function `most_common(sentence)` (Python) / `mostCommon(sentence)` (JS) that returns the single most-used word. If there's a tie, return any one of them.
+
+> Stuck? Have a code error? Use the ["4 Before Me"](https://docs.google.com/document/d/1nseOs5oabYBKNHfwJZNAR7GlU0zkZxNagsw63AD7XV0/edit) debugging checklist to help you solve it!
