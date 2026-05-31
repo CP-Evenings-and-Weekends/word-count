@@ -6,7 +6,7 @@ Write a function that takes a sentence as a string and returns a dictionary (obj
 
 This exercise is about practicing two things together: **iterating over a collection** and **building up a dictionary** as you go.
 
-## Rules
+## Requirements
 
 - Words should be matched case-insensitively (`"The"` and `"the"` count as the same word).
 - Punctuation should not be part of the word. `"hello,"` and `"hello"` count as the same word.
